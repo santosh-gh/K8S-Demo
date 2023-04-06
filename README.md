@@ -1,6 +1,7 @@
 # Create .NetCore WebApp 
 
   https://www.yogihosting.com/category/aspnet-core
+  
   https://www.tutorialsteacher.com/core/net-core-command-line-interface
 
   PS C:\K8S-Demo> dotnet new webapp  -n HelloWorld -f net6.0      
