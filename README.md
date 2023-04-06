@@ -170,3 +170,6 @@
 
   NAME                                           DESIRED   CURRENT   READY   AGE
   replicaset.apps/helloworld-helmchart-b48bf9b   1         1         1       14s
+  
+  PS C:\K8S-Demo> minikube service helloworld-service --url
+  http://192.168.59.113:30007
